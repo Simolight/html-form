@@ -1,0 +1,29 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url(lotus.png);
+    background-repeat: no-repeat;
+    background-position: center right;
+    background-size: 25%;
+}
+
+.First {
+    background-color: blanchedalmond;
+    margin-right: 0%;
+}
+
+div {
+    background-color: antiquewhite;
+    margin: 10px 25% 10px 10px;
+    padding: 5px;
+}
+
+.sign {
+    background: linear-gradient(to right, black 50%, white 50%);
+    width: 100px;
+    border-radius: 5px;
+}
+
+.sign a {
+    text-decoration: none;
+    color: white;
+}
